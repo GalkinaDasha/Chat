@@ -1,0 +1,10 @@
+H:\Programs\test_prog\Angstrem\Chat\Chat.Domain\bin\Debug\netstandard2.0\Chat.Domain.deps.json
+H:\Programs\test_prog\Angstrem\Chat\Chat.Domain\bin\Debug\netstandard2.0\Chat.Domain.dll
+H:\Programs\test_prog\Angstrem\Chat\Chat.Domain\bin\Debug\netstandard2.0\Chat.Domain.pdb
+H:\Programs\test_prog\Angstrem\Chat\Chat.Domain\obj\Debug\netstandard2.0\Chat.Domain.csproj.AssemblyReference.cache
+H:\Programs\test_prog\Angstrem\Chat\Chat.Domain\obj\Debug\netstandard2.0\Chat.Domain.GeneratedMSBuildEditorConfig.editorconfig
+H:\Programs\test_prog\Angstrem\Chat\Chat.Domain\obj\Debug\netstandard2.0\Chat.Domain.AssemblyInfoInputs.cache
+H:\Programs\test_prog\Angstrem\Chat\Chat.Domain\obj\Debug\netstandard2.0\Chat.Domain.AssemblyInfo.cs
+H:\Programs\test_prog\Angstrem\Chat\Chat.Domain\obj\Debug\netstandard2.0\Chat.Domain.csproj.CoreCompileInputs.cache
+H:\Programs\test_prog\Angstrem\Chat\Chat.Domain\obj\Debug\netstandard2.0\Chat.Domain.dll
+H:\Programs\test_prog\Angstrem\Chat\Chat.Domain\obj\Debug\netstandard2.0\Chat.Domain.pdb
