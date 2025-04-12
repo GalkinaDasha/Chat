@@ -10,16 +10,13 @@ namespace Chat.WPF.ViewModels
 {
     public class ChatMessageViewModel
     {
-        public ChatMessage ChatMessage { get; set; }
+        public string Message { get; }
+        public string User { get; }
 
-        public string MessageToFormat(ChatMessage chatMessage)
+        public ChatMessageViewModel(ChatMessage message)
         {
-            return $"{chatMessage.User}: {chatMessage.Message}";
-        }
-
-        public ChatMessageViewModel(ChatMessage chatMessage)
-        {
-            ChatMessage = chatMessage;
+            Message = message.Message; 
+            User = message.User; 
         }
     }
 }

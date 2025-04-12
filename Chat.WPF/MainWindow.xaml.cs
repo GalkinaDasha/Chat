@@ -34,5 +34,10 @@ namespace Chat.WPF
 
             DataContext = ChatViewModel.CreatedConnectedViewModel(new SignalRChatService(connection));
         }
+
+        private void MessBtt_Click(object sender, RoutedEventArgs e)
+        {
+            UserMess.Text = ""; // Очищаем строку после отправки
+        }
     }
 }

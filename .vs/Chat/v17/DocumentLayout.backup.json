@@ -3,44 +3,60 @@
   "WorkspaceRootPath": "H:\\Programs\\test_prog\\Angstrem\\Chat\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{054FF494-1E69-49A7-BBB5-203843607C17}|Chat.WPF\\Chat.WPF.csproj|h:\\programs\\test_prog\\angstrem\\chat\\chat.wpf\\viewmodels\\chatviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{054FF494-1E69-49A7-BBB5-203843607C17}|Chat.WPF\\Chat.WPF.csproj|H:\\Programs\\test_prog\\Angstrem\\Chat\\chat.wpf\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{054FF494-1E69-49A7-BBB5-203843607C17}|Chat.WPF\\Chat.WPF.csproj|solutionrelative:chat.wpf\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{054FF494-1E69-49A7-BBB5-203843607C17}|Chat.WPF\\Chat.WPF.csproj|H:\\Programs\\test_prog\\Angstrem\\Chat\\chat.wpf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{054FF494-1E69-49A7-BBB5-203843607C17}|Chat.WPF\\Chat.WPF.csproj|solutionrelative:chat.wpf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{054FF494-1E69-49A7-BBB5-203843607C17}|Chat.WPF\\Chat.WPF.csproj|H:\\Programs\\test_prog\\Angstrem\\Chat\\chat.wpf\\viewmodels\\chatviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{054FF494-1E69-49A7-BBB5-203843607C17}|Chat.WPF\\Chat.WPF.csproj|solutionrelative:chat.wpf\\viewmodels\\chatviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A4E91858-4937-4A35-8D79-442F1055C03A}|Chat.Domain\\Chat.Domain.csproj|h:\\programs\\test_prog\\angstrem\\chat\\chat.domain\\models\\chatmess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A4E91858-4937-4A35-8D79-442F1055C03A}|Chat.Domain\\Chat.Domain.csproj|solutionrelative:chat.domain\\models\\chatmess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FF670489-2E8A-4D7C-B40F-0EDD7A6FC61F}|Chat.SignalR\\Chat.SignalR.csproj|h:\\programs\\test_prog\\angstrem\\chat\\chat.signalr\\hubs\\chathub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FF670489-2E8A-4D7C-B40F-0EDD7A6FC61F}|Chat.SignalR\\Chat.SignalR.csproj|solutionrelative:chat.signalr\\hubs\\chathub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{054FF494-1E69-49A7-BBB5-203843607C17}|Chat.WPF\\Chat.WPF.csproj|H:\\Programs\\test_prog\\Angstrem\\Chat\\chat.wpf\\viewmodels\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{054FF494-1E69-49A7-BBB5-203843607C17}|Chat.WPF\\Chat.WPF.csproj|solutionrelative:chat.wpf\\viewmodels\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FF670489-2E8A-4D7C-B40F-0EDD7A6FC61F}|Chat.SignalR\\Chat.SignalR.csproj|h:\\programs\\test_prog\\angstrem\\chat\\chat.signalr\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{FF670489-2E8A-4D7C-B40F-0EDD7A6FC61F}|Chat.SignalR\\Chat.SignalR.csproj|solutionrelative:chat.signalr\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{054FF494-1E69-49A7-BBB5-203843607C17}|Chat.WPF\\Chat.WPF.csproj|H:\\Programs\\test_prog\\Angstrem\\Chat\\chat.wpf\\commands\\sendchatmessagecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{054FF494-1E69-49A7-BBB5-203843607C17}|Chat.WPF\\Chat.WPF.csproj|solutionrelative:chat.wpf\\commands\\sendchatmessagecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FF670489-2E8A-4D7C-B40F-0EDD7A6FC61F}|Chat.SignalR\\Chat.SignalR.csproj|h:\\programs\\test_prog\\angstrem\\chat\\chat.signalr\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FF670489-2E8A-4D7C-B40F-0EDD7A6FC61F}|Chat.SignalR\\Chat.SignalR.csproj|solutionrelative:chat.signalr\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FF670489-2E8A-4D7C-B40F-0EDD7A6FC61F}|Chat.SignalR\\Chat.SignalR.csproj|h:\\programs\\test_prog\\angstrem\\chat\\chat.signalr\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FF670489-2E8A-4D7C-B40F-0EDD7A6FC61F}|Chat.SignalR\\Chat.SignalR.csproj|solutionrelative:chat.signalr\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{054FF494-1E69-49A7-BBB5-203843607C17}|Chat.WPF\\Chat.WPF.csproj|H:\\Programs\\test_prog\\Angstrem\\Chat\\chat.wpf\\services\\signalrchatservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{054FF494-1E69-49A7-BBB5-203843607C17}|Chat.WPF\\Chat.WPF.csproj|solutionrelative:chat.wpf\\services\\signalrchatservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{054FF494-1E69-49A7-BBB5-203843607C17}|Chat.WPF\\Chat.WPF.csproj|H:\\Programs\\test_prog\\Angstrem\\Chat\\chat.wpf\\viewmodels\\chatmessageviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{054FF494-1E69-49A7-BBB5-203843607C17}|Chat.WPF\\Chat.WPF.csproj|solutionrelative:chat.wpf\\viewmodels\\chatmessageviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{054FF494-1E69-49A7-BBB5-203843607C17}|Chat.WPF\\Chat.WPF.csproj|H:\\Programs\\test_prog\\Angstrem\\Chat\\chat.wpf\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{054FF494-1E69-49A7-BBB5-203843607C17}|Chat.WPF\\Chat.WPF.csproj|solutionrelative:chat.wpf\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{054FF494-1E69-49A7-BBB5-203843607C17}|Chat.WPF\\Chat.WPF.csproj|H:\\Programs\\test_prog\\Angstrem\\Chat\\chat.wpf\\commands\\sendchatmessagecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{054FF494-1E69-49A7-BBB5-203843607C17}|Chat.WPF\\Chat.WPF.csproj|solutionrelative:chat.wpf\\commands\\sendchatmessagecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{054FF494-1E69-49A7-BBB5-203843607C17}|Chat.WPF\\Chat.WPF.csproj|h:\\programs\\test_prog\\angstrem\\chat\\chat.wpf\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{054FF494-1E69-49A7-BBB5-203843607C17}|Chat.WPF\\Chat.WPF.csproj|solutionrelative:chat.wpf\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF670489-2E8A-4D7C-B40F-0EDD7A6FC61F}|Chat.SignalR\\Chat.SignalR.csproj|h:\\programs\\test_prog\\angstrem\\chat\\chat.signalr\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF670489-2E8A-4D7C-B40F-0EDD7A6FC61F}|Chat.SignalR\\Chat.SignalR.csproj|solutionrelative:chat.signalr\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF670489-2E8A-4D7C-B40F-0EDD7A6FC61F}|Chat.SignalR\\Chat.SignalR.csproj|h:\\programs\\test_prog\\angstrem\\chat\\chat.signalr\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF670489-2E8A-4D7C-B40F-0EDD7A6FC61F}|Chat.SignalR\\Chat.SignalR.csproj|solutionrelative:chat.signalr\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF670489-2E8A-4D7C-B40F-0EDD7A6FC61F}|Chat.SignalR\\Chat.SignalR.csproj|h:\\programs\\test_prog\\angstrem\\chat\\chat.signalr\\hubs\\chathub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF670489-2E8A-4D7C-B40F-0EDD7A6FC61F}|Chat.SignalR\\Chat.SignalR.csproj|solutionrelative:chat.signalr\\hubs\\chathub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF670489-2E8A-4D7C-B40F-0EDD7A6FC61F}|Chat.SignalR\\Chat.SignalR.csproj|h:\\programs\\test_prog\\angstrem\\chat\\chat.signalr\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FF670489-2E8A-4D7C-B40F-0EDD7A6FC61F}|Chat.SignalR\\Chat.SignalR.csproj|solutionrelative:chat.signalr\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{054FF494-1E69-49A7-BBB5-203843607C17}|Chat.WPF\\Chat.WPF.csproj|H:\\Programs\\test_prog\\Angstrem\\Chat\\chat.wpf\\viewmodels\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{054FF494-1E69-49A7-BBB5-203843607C17}|Chat.WPF\\Chat.WPF.csproj|solutionrelative:chat.wpf\\viewmodels\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{054FF494-1E69-49A7-BBB5-203843607C17}|Chat.WPF\\Chat.WPF.csproj|H:\\Programs\\test_prog\\Angstrem\\Chat\\chat.wpf\\viewmodels\\viewmodelbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{054FF494-1E69-49A7-BBB5-203843607C17}|Chat.WPF\\Chat.WPF.csproj|solutionrelative:chat.wpf\\viewmodels\\viewmodelbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4E91858-4937-4A35-8D79-442F1055C03A}|Chat.Domain\\Chat.Domain.csproj|h:\\programs\\test_prog\\angstrem\\chat\\chat.domain\\models\\chatmess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4E91858-4937-4A35-8D79-442F1055C03A}|Chat.Domain\\Chat.Domain.csproj|solutionrelative:chat.domain\\models\\chatmess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{054FF494-1E69-49A7-BBB5-203843607C17}|Chat.WPF\\Chat.WPF.csproj|H:\\Programs\\test_prog\\Angstrem\\Chat\\chat.wpf\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -49,18 +65,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{054FF494-1E69-49A7-BBB5-203843607C17}|Chat.WPF\\Chat.WPF.csproj|H:\\Programs\\test_prog\\Angstrem\\Chat\\chat.wpf\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{054FF494-1E69-49A7-BBB5-203843607C17}|Chat.WPF\\Chat.WPF.csproj|solutionrelative:chat.wpf\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{054FF494-1E69-49A7-BBB5-203843607C17}|Chat.WPF\\Chat.WPF.csproj|H:\\Programs\\test_prog\\Angstrem\\Chat\\chat.wpf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{054FF494-1E69-49A7-BBB5-203843607C17}|Chat.WPF\\Chat.WPF.csproj|solutionrelative:chat.wpf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{054FF494-1E69-49A7-BBB5-203843607C17}|Chat.WPF\\Chat.WPF.csproj|H:\\Programs\\test_prog\\Angstrem\\Chat\\chat.wpf\\services\\signalrchatservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{054FF494-1E69-49A7-BBB5-203843607C17}|Chat.WPF\\Chat.WPF.csproj|solutionrelative:chat.wpf\\services\\signalrchatservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{054FF494-1E69-49A7-BBB5-203843607C17}|Chat.WPF\\Chat.WPF.csproj|H:\\Programs\\test_prog\\Angstrem\\Chat\\chat.wpf\\viewmodels\\viewmodelbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{054FF494-1E69-49A7-BBB5-203843607C17}|Chat.WPF\\Chat.WPF.csproj|solutionrelative:chat.wpf\\viewmodels\\viewmodelbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -70,7 +74,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 13,
           "Children": [
             {
               "$type": "Bookmark",
@@ -79,29 +83,44 @@
             {
               "$type": "Document",
               "DocumentIndex": 6,
+              "Title": "App.config",
+              "DocumentMoniker": "H:\\Programs\\test_prog\\Angstrem\\Chat\\Chat.WPF\\App.config",
+              "RelativeDocumentMoniker": "Chat.WPF\\App.config",
+              "ToolTip": "H:\\Programs\\test_prog\\Angstrem\\Chat\\Chat.WPF\\App.config",
+              "RelativeToolTip": "Chat.WPF\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-04-12T16:47:21.817Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "Program.cs",
               "DocumentMoniker": "H:\\Programs\\test_prog\\Angstrem\\Chat\\Chat.SignalR\\Program.cs",
               "RelativeDocumentMoniker": "Chat.SignalR\\Program.cs",
               "ToolTip": "H:\\Programs\\test_prog\\Angstrem\\Chat\\Chat.SignalR\\Program.cs",
               "RelativeToolTip": "Chat.SignalR\\Program.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAowCQAAAAKAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAowBgAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-11T12:23:03.687Z"
+              "WhenOpened": "2025-04-11T12:23:03.687Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 15,
               "Title": "App.xaml",
               "DocumentMoniker": "H:\\Programs\\test_prog\\Angstrem\\Chat\\Chat.WPF\\App.xaml",
               "RelativeDocumentMoniker": "Chat.WPF\\App.xaml",
               "ToolTip": "H:\\Programs\\test_prog\\Angstrem\\Chat\\Chat.WPF\\App.xaml",
               "RelativeToolTip": "Chat.WPF\\App.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-04-10T19:39:41.296Z"
+              "WhenOpened": "2025-04-10T19:39:41.296Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 11,
               "Title": "MainViewModel.cs",
               "DocumentMoniker": "H:\\Programs\\test_prog\\Angstrem\\Chat\\Chat.WPF\\ViewModels\\MainViewModel.cs",
               "RelativeDocumentMoniker": "Chat.WPF\\ViewModels\\MainViewModel.cs",
@@ -114,15 +133,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 4,
               "Title": "ChatMessageViewModel.cs",
               "DocumentMoniker": "H:\\Programs\\test_prog\\Angstrem\\Chat\\Chat.WPF\\ViewModels\\ChatMessageViewModel.cs",
               "RelativeDocumentMoniker": "Chat.WPF\\ViewModels\\ChatMessageViewModel.cs",
               "ToolTip": "H:\\Programs\\test_prog\\Angstrem\\Chat\\Chat.WPF\\ViewModels\\ChatMessageViewModel.cs",
               "RelativeToolTip": "Chat.WPF\\ViewModels\\ChatMessageViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA/AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-09T18:08:15.944Z"
+              "WhenOpened": "2025-04-09T18:08:15.944Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -134,11 +154,12 @@
               "RelativeToolTip": "Chat.WPF\\Commands\\SendChatMessageCommand.cs",
               "ViewState": "AgIAAAcAAAAAAAAAAAAcwC4AAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-09T17:33:23.226Z"
+              "WhenOpened": "2025-04-09T17:33:23.226Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 12,
               "Title": "ViewModelBase.cs",
               "DocumentMoniker": "H:\\Programs\\test_prog\\Angstrem\\Chat\\Chat.WPF\\ViewModels\\ViewModelBase.cs",
               "RelativeDocumentMoniker": "Chat.WPF\\ViewModels\\ViewModelBase.cs",
@@ -150,32 +171,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "ChatViewModel.cs",
               "DocumentMoniker": "H:\\Programs\\test_prog\\Angstrem\\Chat\\Chat.WPF\\ViewModels\\ChatViewModel.cs",
               "RelativeDocumentMoniker": "Chat.WPF\\ViewModels\\ChatViewModel.cs",
               "ToolTip": "H:\\Programs\\test_prog\\Angstrem\\Chat\\Chat.WPF\\ViewModels\\ChatViewModel.cs",
               "RelativeToolTip": "Chat.WPF\\ViewModels\\ChatViewModel.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAAgAAAAAAAAAA==",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAcwEkAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-09T17:19:17.236Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 3,
               "Title": "SignalRChatService.cs",
               "DocumentMoniker": "H:\\Programs\\test_prog\\Angstrem\\Chat\\Chat.WPF\\Services\\SignalRChatService.cs",
               "RelativeDocumentMoniker": "Chat.WPF\\Services\\SignalRChatService.cs",
               "ToolTip": "H:\\Programs\\test_prog\\Angstrem\\Chat\\Chat.WPF\\Services\\SignalRChatService.cs",
               "RelativeToolTip": "Chat.WPF\\Services\\SignalRChatService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAxAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAA9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-09T15:13:38.19Z"
+              "WhenOpened": "2025-04-09T15:13:38.19Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 10,
               "Title": "launchSettings.json",
               "DocumentMoniker": "H:\\Programs\\test_prog\\Angstrem\\Chat\\Chat.SignalR\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "Chat.SignalR\\Properties\\launchSettings.json",
@@ -188,7 +210,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 14,
               "Title": "App.xaml.cs",
               "DocumentMoniker": "H:\\Programs\\test_prog\\Angstrem\\Chat\\Chat.WPF\\App.xaml.cs",
               "RelativeDocumentMoniker": "Chat.WPF\\App.xaml.cs",
@@ -200,30 +222,32 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 1,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "H:\\Programs\\test_prog\\Angstrem\\Chat\\Chat.WPF\\MainWindow.xaml",
               "RelativeDocumentMoniker": "Chat.WPF\\MainWindow.xaml",
               "ToolTip": "H:\\Programs\\test_prog\\Angstrem\\Chat\\Chat.WPF\\MainWindow.xaml",
               "RelativeToolTip": "Chat.WPF\\MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-04-09T14:28:39.376Z"
+              "WhenOpened": "2025-04-09T14:28:39.376Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 0,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "H:\\Programs\\test_prog\\Angstrem\\Chat\\Chat.WPF\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "Chat.WPF\\MainWindow.xaml.cs",
               "ToolTip": "H:\\Programs\\test_prog\\Angstrem\\Chat\\Chat.WPF\\MainWindow.xaml.cs",
               "RelativeToolTip": "Chat.WPF\\MainWindow.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAABAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-09T14:28:39.15Z"
+              "WhenOpened": "2025-04-09T14:28:39.15Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 9,
               "Title": "ChatHub.cs",
               "DocumentMoniker": "H:\\Programs\\test_prog\\Angstrem\\Chat\\Chat.SignalR\\Hubs\\ChatHub.cs",
               "RelativeDocumentMoniker": "Chat.SignalR\\Hubs\\ChatHub.cs",
@@ -242,13 +266,14 @@
               "RelativeDocumentMoniker": "Chat.SignalR\\Startup.cs",
               "ToolTip": "H:\\Programs\\test_prog\\Angstrem\\Chat\\Chat.SignalR\\Startup.cs",
               "RelativeToolTip": "Chat.SignalR\\Startup.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAlAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-09T12:35:40.371Z"
+              "WhenOpened": "2025-04-09T12:35:40.371Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 13,
               "Title": "ChatMess.cs",
               "DocumentMoniker": "H:\\Programs\\test_prog\\Angstrem\\Chat\\Chat.Domain\\Models\\ChatMess.cs",
               "RelativeDocumentMoniker": "Chat.Domain\\Models\\ChatMess.cs",
@@ -256,8 +281,7 @@
               "RelativeToolTip": "Chat.Domain\\Models\\ChatMess.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-09T09:57:35.483Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-09T09:57:35.483Z"
             }
           ]
         }

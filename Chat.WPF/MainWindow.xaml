@@ -60,7 +60,8 @@
                     Cursor="Hand"
                     FontSize="15"
                     HorizontalAlignment="Right"
-                    Command="{Binding SendChatMessageCommand}">
+                    Command="{Binding SendChatMessageCommand}"
+                    Click="MessBtt_Click">
                         Отправить
                     </Button>
                 </StackPanel>

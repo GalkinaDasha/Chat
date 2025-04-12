@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Collections.ObjectModel;
 using System.Linq;
 using System.Text;
+using System.Threading;
 using System.Threading.Tasks;
 using System.Windows.Input;
 using Chat.Domain.Models;
@@ -23,7 +24,7 @@ namespace Chat.WPF.ViewModels
             set
             {
                 _message = value;
-                OnPropertyChanged();
+                OnPropertyChanged(nameof(Message));
             }
         }
 
@@ -37,7 +38,7 @@ namespace Chat.WPF.ViewModels
             set
             {
                 _user = value;
-                OnPropertyChanged();
+                OnPropertyChanged(nameof(User));
             }
         }
 
@@ -76,8 +77,12 @@ namespace Chat.WPF.ViewModels
 
         public ICommand SendChatMessageCommand { get; }
 
+        private readonly SynchronizationContext _syncContext;
+
         public ChatViewModel(SignalRChatService chatService)
         {
+            _syncContext = SynchronizationContext.Current; // Сохраняем текущий контекст синхронизации
+
             SendChatMessageCommand = new SendChatMessageCommand(this, chatService);
 
             Messages = new ObservableCollection<ChatMessageViewModel>();
@@ -103,7 +108,11 @@ namespace Chat.WPF.ViewModels
 
         private void ChatService_MessageReceived(ChatMessage mess)
         {
-            Messages.Add(new ChatMessageViewModel(mess));
+            // Используем SynchronizationContext для добавления сообщения в UI-потоке
+            _syncContext.Post(_ =>
+            {
+                Messages.Add(new ChatMessageViewModel(mess));
+            }, null);
         }
     }
 }
