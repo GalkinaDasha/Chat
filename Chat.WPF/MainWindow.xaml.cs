@@ -12,7 +12,9 @@ using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
+using Chat.WPF.Services;
 using Chat.WPF.ViewModels;
+using Microsoft.AspNetCore.SignalR.Client;
 
 namespace Chat.WPF
 {
@@ -24,6 +26,13 @@ namespace Chat.WPF
         public MainWindow()
         {
             InitializeComponent();
+
+            //связь с хабом по url, адрес из json проекта Chat.SignalR, Properties
+            HubConnection connection = new HubConnectionBuilder()
+                .WithUrl("http://localhost:5000/chat")
+                .Build();
+
+            DataContext = ChatViewModel.CreatedConnectedViewModel(new SignalRChatService(connection));
         }
     }
 }

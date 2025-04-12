@@ -4,13 +4,13 @@
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Chat.SignalR.tbiyd9qsgp.bundle.scp.css'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
       <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-SSIABhN2IOMqN0qpSy0Z/1HoUrJGP\u002BZJQVmJQ67PAhM="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"1130"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022SSIABhN2IOMqN0qpSy0Z/1HoUrJGP\u002BZJQVmJQ67PAhM=\u0022"},{"Name":"Last-Modified","Value":"Thu, 10 Apr 2025 15:55:38 GMT"}]]]></ResponseHeaders>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"1130"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022SSIABhN2IOMqN0qpSy0Z/1HoUrJGP\u002BZJQVmJQ67PAhM=\u0022"},{"Name":"Last-Modified","Value":"Fri, 11 Apr 2025 12:25:02 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/Chat.SignalR/Chat.SignalR.tbiyd9qsgp.bundle.scp.css">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Chat.SignalR.tbiyd9qsgp.bundle.scp.css'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
       <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"tbiyd9qsgp"},{"Name":"integrity","Value":"sha256-SSIABhN2IOMqN0qpSy0Z/1HoUrJGP\u002BZJQVmJQ67PAhM="},{"Name":"label","Value":"_content/Chat.SignalR/Chat.SignalR.bundle.scp.css"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1130"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022SSIABhN2IOMqN0qpSy0Z/1HoUrJGP\u002BZJQVmJQ67PAhM=\u0022"},{"Name":"Last-Modified","Value":"Thu, 10 Apr 2025 15:55:38 GMT"}]]]></ResponseHeaders>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1130"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022SSIABhN2IOMqN0qpSy0Z/1HoUrJGP\u002BZJQVmJQ67PAhM=\u0022"},{"Name":"Last-Modified","Value":"Fri, 11 Apr 2025 12:25:02 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/Chat.SignalR/css/site.c2tiyv64ts.css">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\site.css'))</AssetFile>

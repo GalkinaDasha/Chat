@@ -36,3 +36,4 @@ H:\Programs\test_prog\Angstrem\Chat\Chat.SignalR\obj\Debug\net8.0\refint\Chat.Si
 H:\Programs\test_prog\Angstrem\Chat\Chat.SignalR\obj\Debug\net8.0\Chat.SignalR.pdb
 H:\Programs\test_prog\Angstrem\Chat\Chat.SignalR\obj\Debug\net8.0\Chat.SignalR.genruntimeconfig.cache
 H:\Programs\test_prog\Angstrem\Chat\Chat.SignalR\obj\Debug\net8.0\ref\Chat.SignalR.dll
+H:\Programs\test_prog\Angstrem\Chat\Chat.SignalR\obj\Debug\net8.0\Chat.SignalR.sourcelink.json

@@ -23,7 +23,7 @@ namespace Chat.WPF.ViewModels
             set
             {
                 _message = value;
-                OnPropertyChanged(nameof(Message));
+                OnPropertyChanged();
             }
         }
 
@@ -37,7 +37,7 @@ namespace Chat.WPF.ViewModels
             set
             {
                 _user = value;
-                OnPropertyChanged(nameof(User));
+                OnPropertyChanged();
             }
         }
 
@@ -73,7 +73,6 @@ namespace Chat.WPF.ViewModels
         }
 
         public ObservableCollection<ChatMessageViewModel> Messages { get; }
-        public ObservableCollection<string> MessagesTxt { get; set; }
 
         public ICommand SendChatMessageCommand { get; }
 
@@ -82,7 +81,6 @@ namespace Chat.WPF.ViewModels
             SendChatMessageCommand = new SendChatMessageCommand(this, chatService);
 
             Messages = new ObservableCollection<ChatMessageViewModel>();
-            MessagesTxt = new ObservableCollection<string>();
 
             chatService.MessageReceived += ChatService_MessageReceived;
         }
@@ -106,7 +104,6 @@ namespace Chat.WPF.ViewModels
         private void ChatService_MessageReceived(ChatMessage mess)
         {
             Messages.Add(new ChatMessageViewModel(mess));
-            MessagesTxt.Add($"{mess.User}: {mess.Message}\n");
         }
     }
 }

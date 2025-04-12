@@ -8,3 +8,4 @@ H:\Programs\test_prog\Angstrem\Chat\Chat.Domain\obj\Debug\netstandard2.0\Chat.Do
 H:\Programs\test_prog\Angstrem\Chat\Chat.Domain\obj\Debug\netstandard2.0\Chat.Domain.csproj.CoreCompileInputs.cache
 H:\Programs\test_prog\Angstrem\Chat\Chat.Domain\obj\Debug\netstandard2.0\Chat.Domain.dll
 H:\Programs\test_prog\Angstrem\Chat\Chat.Domain\obj\Debug\netstandard2.0\Chat.Domain.pdb
+H:\Programs\test_prog\Angstrem\Chat\Chat.Domain\obj\Debug\netstandard2.0\Chat.Domain.sourcelink.json

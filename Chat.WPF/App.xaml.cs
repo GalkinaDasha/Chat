@@ -16,14 +16,5 @@ namespace Chat.WPF
     /// </summary>
     public partial class App : Application
     {
-        protected override void OnStartup(StartupEventArgs e)
-        {
-            //связь с хабом по url, адрес из json проекта Chat.SignalR, Properties
-            HubConnection connection = new HubConnectionBuilder()
-                .WithUrl("http://localhost:5000/chat")
-                .Build();
-
-            ChatViewModel chatViewModel = ChatViewModel.CreatedConnectedViewModel(new SignalRChatService(connection));
-        }
     }
 }
